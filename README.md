@@ -1,4 +1,4 @@
 # design demo
 
 
-![camera](demo.output/camera.png)
+![camera](demo-putput/camera.svg)
