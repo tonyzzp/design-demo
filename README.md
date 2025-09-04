@@ -1,4 +1,4 @@
 # design demo
 
 
-![camera](figma-putput/camera.svg)
+![camera](figma-output/camera.svg)
